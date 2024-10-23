@@ -1,7 +1,5 @@
 import { Link } from "react-router-dom";
 
-
-
 export default function Dashboard() {
   return (
     <div id="wd-dashboard">
@@ -13,7 +11,6 @@ export default function Dashboard() {
         <div className="row row-cols-1 row-cols-md-5 g-4">
 
           {/* Course 1 */}
-
           <div className="wd-dashboard-course col" style={{ width: "300px" }}>
             <div className="card rounded-3 overflow-hidden">
               <Link className="wd-dashboard-course-link text-decoration-none text-dark" to="/Kanbas/Courses/1234/Home">

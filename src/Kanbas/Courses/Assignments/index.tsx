@@ -2,8 +2,6 @@ import { FaCheckCircle, FaSearch } from "react-icons/fa"; // Importing search ic
 import { IoEllipsisVertical } from "react-icons/io5";
 import { GiNotebook } from "react-icons/gi"; // Importing notebook icon
 
-
-
 export default function Assignments() {
   return (
     <div id="wd-assignments" className="p-3">

@@ -4,8 +4,6 @@ import { LiaBookSolid, LiaCogSolid } from "react-icons/lia";
 import { FaInbox, FaRegCircleUser } from "react-icons/fa6";
 import { Link } from "react-router-dom";
 
-
-
 export default function KanbasNavigation() {
   return (
     <div id="wd-kanbas-navigation" style={{ width: 120 }} 
@@ -74,7 +72,7 @@ export default function KanbasNavigation() {
       >
         <LiaCogSolid className="fs-1 text-danger" />
         <br />
-        Settings
+        Labs
       </Link>
 
     </div>
