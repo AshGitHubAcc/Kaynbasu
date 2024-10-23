@@ -2,10 +2,10 @@ import CoursesNavigation from "./Navigation";
 import { Navigate, Route, Routes } from "react-router";
 import Modules from "./Modules";
 import Home from "./Home";
-import Assignments from "./Assignments";
-import AssignmentEditor from "./Assignments/Editor";
 import { FaAlignJustify } from 'react-icons/fa';
 import PeopleTable from './People/Table';
+import Assignments from "./Assignments";
+import AssignmentEditor from "./Assignments/AssignmentEditor";
 
 export default function Courses() {
   return (
@@ -30,5 +30,6 @@ export default function Courses() {
     </div>
 
 );}
+
 
   
