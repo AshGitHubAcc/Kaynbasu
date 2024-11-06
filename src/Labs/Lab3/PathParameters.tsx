@@ -10,3 +10,4 @@ export default function PathParameters() {
      <Route path="add/:a/:b" element={<AddPathParameters />} />
    </Routes>
   </div>);}
+

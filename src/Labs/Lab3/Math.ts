@@ -17,3 +17,5 @@ export function add(a: number, b: number): number {
     divide,
   };
   export default Math;
+  
+  
