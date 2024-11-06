@@ -12,4 +12,3 @@ export default function BooleanStateVariables() {
       {done && <div className="alert alert-success">
                Yay! you are done</div>}
 <hr/></div>);}
-

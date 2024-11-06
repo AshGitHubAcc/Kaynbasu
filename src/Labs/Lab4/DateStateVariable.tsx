@@ -18,4 +18,3 @@ export default function DateStateVariable() {
         onChange={(e) => setStartDate(new Date(e.target.value))}
       />
 <hr/></div>);}
-

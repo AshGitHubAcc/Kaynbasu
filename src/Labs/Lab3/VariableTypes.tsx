@@ -17,6 +17,5 @@ export default function VariableTypes() {
         isString = { isString }<br/>
         isBoolean = { isBoolean }<hr/>
       </div>
-  );}
-  
+);}
   

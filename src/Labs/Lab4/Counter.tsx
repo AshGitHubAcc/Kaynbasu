@@ -16,4 +16,3 @@ export default function Counter() {
         Down
       </button>
 <hr/></div>);}
-
