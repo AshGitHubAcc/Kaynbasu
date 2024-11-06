@@ -1,4 +1,4 @@
-
+import "./index.css";
 import ForegroundColors from "./ForegroundColors";
 import BackgroundColors from "./BackgroundColors";
 import Borders from "./Borders";
@@ -18,7 +18,6 @@ import BootstrapTables from './BootstrapTables';
 import BootstrapLists from './BootstrapLists';
 import BootstrapForms from './BootstrapForms';
 import BootstrapNavigation from "./BootstrapNavigation";
-import "./index.css";
 
 export default function Lab2() {
   return (

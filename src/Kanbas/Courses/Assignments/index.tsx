@@ -1,6 +1,6 @@
-import { FaCheckCircle, FaSearch } from "react-icons/fa"; // Importing search icon
+import { FaCheckCircle, FaSearch } from "react-icons/fa"; 
 import { IoEllipsisVertical } from "react-icons/io5";
-import { GiNotebook } from "react-icons/gi"; // Importing notebook icon
+import { GiNotebook } from "react-icons/gi"; 
 
 export default function Assignments() {
   return (

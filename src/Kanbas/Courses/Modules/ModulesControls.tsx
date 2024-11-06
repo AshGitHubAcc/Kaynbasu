@@ -1,5 +1,5 @@
 import { FaPlus } from "react-icons/fa6";
-import GreenIcon from "./GreenIcon";
+import GreenCheckmark from "./GreenCheckmark";
 
 export default function ModulesControls() {
     return (
@@ -13,19 +13,19 @@ export default function ModulesControls() {
             <div className="dropdown">
                 <button id="wd-publish-all-btn" className="btn btn-lg btn-secondary dropdown-toggle"
                     type="button" data-bs-toggle="dropdown">
-                    <GreenIcon />
+                    <GreenCheckmark />
                     Publish All
                 </button>
                 <ul className="dropdown-menu">
                     <li>
                         <a id="wd-publish-all-modules-and-items-btn" className="dropdown-item" href="#">
-                            <GreenIcon />
+                            <GreenCheckmark />
                             Publish all modules and items
                         </a>
                     </li>
                     <li>
                         <a id="wd-publish-modules-only-button" className="dropdown-item" href="#">
-                            <GreenIcon />
+                            <GreenCheckmark />
                             Publish modules only
                         </a>
                     </li>

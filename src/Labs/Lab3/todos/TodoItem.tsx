@@ -9,4 +9,3 @@ defaultChecked={todo.done}/>
 );
 }
 export default TodoItem;
-

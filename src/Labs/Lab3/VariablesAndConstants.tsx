@@ -9,6 +9,5 @@ export default function VariablesAndConstants() {
         blockScoped = { blockScoped }<br/>
         constant1 = { constant1 }<hr/>
       </div>
-    );
-}
+   );}
    
