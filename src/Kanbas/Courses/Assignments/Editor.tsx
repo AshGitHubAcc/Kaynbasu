@@ -1,6 +1,7 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+
 export default function AssignmentEditor() {
   return (
     <div id="wd-assignments-editor" className="container mt-4">
