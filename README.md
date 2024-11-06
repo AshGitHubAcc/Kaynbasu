@@ -1,3 +1,3 @@
-https://kaynbasu.netlify.app \
-https://kaynbasu.netlify.app \
-https://kaynbasu.netlify.app 
+https://kanbas312.netlify.app/ \
+https://kanbas312.netlify.app/ \
+https://kanbas312.netlify.app/
