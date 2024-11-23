@@ -17,6 +17,7 @@ export default function Assignments() {
             placeholder="Search..."
             style={{ borderLeft: 'none' }}
           />
+          
         </div>
         <div>
           <button id="wd-add-assignment-group" className="btn btn-outline-secondary me-2">
