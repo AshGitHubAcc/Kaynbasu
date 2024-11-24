@@ -59,6 +59,13 @@ export default function TOC() {
       </li>
 
       <li className="nav-item">
+        <a id="wd-k" href="https://kanbas-backend-pq01.onrender.com/" className="nav-link">
+          Live server link
+        </a>
+      </li>
+
+
+      <li className="nav-item">
         <a id="wd-k" href="https://github.com/AshGitHubAcc/kanbas-backend" className="nav-link">
           Server link
         </a>
