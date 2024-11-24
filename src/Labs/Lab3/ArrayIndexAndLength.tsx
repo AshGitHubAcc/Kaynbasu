@@ -1,5 +1,3 @@
-
-
 export default function ArrayIndexAndLength() {
     let numberArray1 = [1, 2, 3, 4, 5];
     const length1 = numberArray1.length;
@@ -11,3 +9,4 @@ export default function ArrayIndexAndLength() {
         index1 = {index1}   <hr />
       </div>
   );}
+  

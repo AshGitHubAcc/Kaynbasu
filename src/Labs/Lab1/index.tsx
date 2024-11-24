@@ -289,12 +289,6 @@ tag to tell browsers to render the gaps.
     </a>
     to get dummy text<br />
 
-    Please 
-    <a id="wd-github" href="https://github.com/EricHuang05/kanbas-react-web-app" target="_blank" rel="noopener noreferrer">
-      click here
-    </a>
-    to view the GitHub repository<br />
-
     </div>
     );
   }

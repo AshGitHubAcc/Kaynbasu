@@ -1,6 +1,6 @@
 import { useLocation } from "react-router";
+
 export default function TOC() {
-  
   const { pathname } = useLocation();
   return (
     <ul className="nav nav-pills">
@@ -40,18 +40,30 @@ export default function TOC() {
       </li>
 
       <li className="nav-item">
+        <a id="wd-a5" href="#/Labs/Lab5"
+          className={`nav-link ${pathname.includes("Lab5") ? "active" : ""}`}>
+          Lab 5
+        </a>
+      </li>
+
+      <li className="nav-item">
         <a id="wd-k" href="#/Kanbas" className="nav-link">
           Kanbas
         </a>
       </li>
 
-
-
       <li className="nav-item">
-        <a id="wd-k" href="https://github.com/AshGitHubAcc" className="nav-link">
-          GitHub
+        <a id="wd-k" href="https://github.com/AshGitHubAcc/Kaynbasu/tree/main" className="nav-link">
+          Client github link
         </a>
       </li>
+
+      <li className="nav-item">
+        <a id="wd-k" href="https://github.com/AshGitHubAcc/kanbas-backend" className="nav-link">
+          Server link
+        </a>
+      </li>
+
 
     </ul>
   );
